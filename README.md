@@ -24,7 +24,7 @@ fastAPI를 이용한 붓꽃분류시스템, 영화추천시스템, 2024 1학기 
 
 ## 붓꽃분류시스템
 
-![동작화면]()
+![동작화면](https://github.com/ssom1/2024fastAPI/blob/main/%EB%B6%93%EA%BD%83.png)
 
 개발환경
 annotated-types==0.6.0
