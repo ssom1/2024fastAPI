@@ -1,6 +1,23 @@
 # 2024fastAPI
 fastAPI를 이용한 붓꽃 분류시스템, 영화 추천 시스템, 2024 1학기 캡스톤프로젝트
 
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <br>
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/fastify-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-F05032?style=for-the-badge&logo=git&logoColor=white">
+  
+  
+  </div>
+
 ## 붓꽃 분류 시스템 
 개발환경 
 annotated-types==0.6.0
